@@ -1,0 +1,21 @@
+{
+  "name": "backkk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-cdn": "^0.4.0",
+    "mongoose": "^8.9.2",
+    "nodemon": "^3.1.9",
+    "request": "^2.88.2",
+    "schema": "^0.2.1"
+  }
+}
